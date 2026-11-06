@@ -1,0 +1,7 @@
+{
+  "days": [
+    {"day": 1, "topic": "Variables and data types", "objective": "Create variables and use int, float, str, bool", "est_minutes": 45, "activities": ["Read notes", "Write 5 small programs"]},
+    {"day": 2, "topic": "Operators and conditions", "objective": "Use if/elif/else with comparison and logical operators", "est_minutes": 45, "activities": ["Solve 5 condition exercises"]},
+    {"day": 3, "topic": "Loops", "objective": "Write for and while loops", "est_minutes": 45, "activities": ["Print patterns", "Sum numbers with a loop"]}
+  ]
+}
